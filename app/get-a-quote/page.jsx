@@ -1,6 +1,6 @@
 import Layout from "@/components/layout/Layout";
 import PageHeader from "@/components/sections/PageHeader";
-import Section1 from "../../components/sections/get-a-quote/section1";
+import Section1 from "@/components/sections/get-a-quote/section1";
 import Section8 from "@/components/sections/home/Section8";
 
 export default function Home() { 
