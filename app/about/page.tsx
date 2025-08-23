@@ -11,9 +11,8 @@ export default function Home() {
             <Layout>
                 <PageHeader title="About Us" current_page="about us" />
                 <Section1 />
-                <Section3 />
+                {/* <Section3 /> */}
                 <Section2Home />
-                <Section2 />
                 <Section8 />
             </Layout>
         </>

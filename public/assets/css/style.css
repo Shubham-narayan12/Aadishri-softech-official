@@ -14,7 +14,7 @@
   border-radius: 510px;
   background: rgba(255, 255, 255, 0.1);
   -webkit-backdrop-filter: blur(20px);
-          backdrop-filter: blur(20px);
+  backdrop-filter: blur(20px);
   left: -50px;
   top: 60%;
   opacity: 0;
@@ -53,13 +53,22 @@
   text-decoration: underline;
   border-color: var(--tc-theme-primary) !important;
 }
-.it-solutions-home-section-4 .swiper-slide.swiper-slide-active .card-portfolio .title {
+.it-solutions-home-section-4
+  .swiper-slide.swiper-slide-active
+  .card-portfolio
+  .title {
   opacity: 1;
 }
-.it-solutions-home-section-4 .swiper-slide.swiper-slide-active .card-portfolio .logo-cloud {
+.it-solutions-home-section-4
+  .swiper-slide.swiper-slide-active
+  .card-portfolio
+  .logo-cloud {
   opacity: 1;
 }
-.it-solutions-home-section-4 .swiper-slide.swiper-slide-active .card-portfolio .logo-service {
+.it-solutions-home-section-4
+  .swiper-slide.swiper-slide-active
+  .card-portfolio
+  .logo-service {
   opacity: 1;
 }
 
@@ -105,10 +114,10 @@
 }
 
 .section-footer-5 .icon svg {
-  height: 14px;
-  width: 14px;
+  height: 25px;
+  width: 25px;
   fill: var(--tc-body-text-secondary);
-  opacity: 0.5;
+  opacity: 3.5;
 }
 .section-footer-5 .icon:hover svg {
   fill: var(--tc-system-black);
@@ -406,8 +415,8 @@
   font-weight: 400;
   font-size: 18px;
   -webkit-user-select: none;
-     -moz-user-select: none;
-          user-select: none;
+  -moz-user-select: none;
+  user-select: none;
   transition: all 0.3s ease-out 0s;
 }
 

@@ -10,27 +10,27 @@ export default function Section1() {
                         <div className="col-lg-6 pe-lg-8 col-md-12">
                             <span className="text-primary fs-7 fw-medium position-relative z-1 btn-text border-top border-primary px-2 py-2">About our company</span>
                             <h2 className="my-3 text-anime-style-3">End-to-End IT Solutions for Growing Businesses</h2>
-                            <p className="text-anime-style-1">cWelcome to Astrax Agency, where innovation meets expertise. We specialize in delivering cutting-edge IT solutions designed to elevate your business to new heights. From seamless software development</p>
+                            <p className="text-anime-style-1">At Aadishri Softech, we are dedicated to delivering innovative and reliable IT solutions that empower businesses to thrive in the digital era. As a leading service provider, we specialize in Website Development, App Development, E-Commerce Solutions, Graphic Design, and Digital Marketing Services. With a team of skilled professionals and a customer-centric approach, we ensure every project meets the highest standards of quality and performance. Our commitment to excellence and cutting-edge technology drives us to create solutions that are tailored to your business needs. </p>
                             <div className="bg-light-2 p-4 rounded-3 my-5">
                                 <div className="position-relative pt-5 pb-3 overflow-hidden">
                                     <div className="progress position-relative" role="progressbar" aria-label="Basic example" aria-valuenow={98} aria-valuemin={0} aria-valuemax={98}>
                                         <div className="progress-bar rounded-pill wow img-custom-anim-left" style={{ width: "98%" }} />
                                     </div>
-                                    <span className="position-absolute top-0 start-0 mb-2 fs-18 fw-medium">It Solution</span>
+                                    <span className="position-absolute top-0 start-0 mb-2 fs-18 fw-medium">Website Design and Development</span>
                                     <span className="text-opacity-50 position-absolute top-0 end-0 mt-2 fs-7 fw-medium">98%</span>
                                 </div>
                                 <div className="position-relative pt-5 pb-3 overflow-hidden">
                                     <div className="progress position-relative" role="progressbar" aria-label="Basic example" aria-valuenow={98} aria-valuemin={0} aria-valuemax={98}>
                                         <div className="progress-bar rounded-pill wow img-custom-anim-left" style={{ width: "98%" }} />
                                     </div>
-                                    <span className="position-absolute top-0 start-0 mb-2 fs-18 fw-medium">Cyber Security</span>
+                                    <span className="position-absolute top-0 start-0 mb-2 fs-18 fw-medium">E-Commerce Solutions</span>
                                     <span className="text-opacity-50 position-absolute top-0 end-0 mt-2 fs-7 fw-medium">98%</span>
                                 </div>
                                 <div className="position-relative pt-5 overflow-hidden">
                                     <div className="progress position-relative" role="progressbar" aria-label="Basic example" aria-valuenow={99} aria-valuemin={0} aria-valuemax={99}>
                                         <div className="progress-bar rounded-pill wow img-custom-anim-left" style={{ width: "99%" }} />
                                     </div>
-                                    <span className="position-absolute top-0 start-0 mb-2 fs-18 fw-medium">Cloud Solution</span>
+                                    <span className="position-absolute top-0 start-0 mb-2 fs-18 fw-medium">Social Media Marketing</span>
                                     <span className="text-opacity-50 position-absolute top-0 end-0 mt-2 fs-7 fw-medium">99%</span>
                                 </div>
                             </div>

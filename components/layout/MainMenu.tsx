@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function MainMenu() {
     return (
-        <ul className="navbar-nav mx-auto gap-4 align-items-lg-center">
+        <ul className="navbar-nav mx-auto gap-4 align-items-lg-center " style={{ maxWidth: "800px" }}>
             <li className="nav-item">
                 <Link className="nav-link text-uppercase" href="/">
                     Home
@@ -15,10 +15,16 @@ export default function MainMenu() {
                 </Link>
             </li>
             <li className="nav-item">
-                <Link className="nav-link text-uppercase" href="/our-blog">
-                    Blog
+                <Link className="nav-link text-uppercase" href="/services">
+                    Services
                 </Link>
             </li>
+            <li className="nav-item">
+                <Link className="nav-link text-uppercase" href="/projects">
+                   projects
+                </Link>
+            </li>
+            {/*
             <li className="nav-item dropdown menu-item-has-children">
                 <Link className="nav-link text-uppercase" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                     Pages
@@ -40,12 +46,15 @@ export default function MainMenu() {
                         </Link>
                     </li>
                 </ul>
-            </li>
+            </li> */}
             <li className="nav-item">
                 <Link className="nav-link text-uppercase" href="/contact">
                     contact
                 </Link>
             </li>
+
+            
+            
         </ul>
     );
 }

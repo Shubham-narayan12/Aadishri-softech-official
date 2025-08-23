@@ -9,7 +9,7 @@ export default function Section2() {
                     <div className="row">
                         <div className="text-center mb-80">
                             <span className="text-primary fs-7 fw-medium position-relative z-1 btn-text border-top border-primary px-2 py-2">Our Team, Your Success</span>
-                            <h2 className="my-3 text-anime-style-3">Meet the Experts Behind Astrax"</h2>
+                            <h2 className="my-3 text-anime-style-3">Meet the Experts Behind Aadishri Softech"</h2>
                         </div>
                         <div className="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay={0}>
                             <div className="card-team text-center d-flex justify-content-center flex-column align-items-center">

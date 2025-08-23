@@ -37,7 +37,7 @@ export default function Section6() {
                                         </svg>
                                     </div>
                                     <Link href="#">
-                                        <h6 className="mt-5 mb-3 fs-20">info@astrax.com</h6>
+                                        <h6 className="mt-5 mb-3 fs-20">info@aadishrisoftech.com</h6>
                                     </Link>
                                     <p className="mb-0">Media strategy encapsulates your intentions.</p>
                                 </div>
@@ -55,7 +55,7 @@ export default function Section6() {
                                         </svg>
                                     </div>
                                     <Link href="telto:(123) 456 789 00">
-                                        <h6 className="mt-5 mb-3 fs-20">+(123) 456 789 00</h6>
+                                        <h6 className="mt-5 mb-3 fs-20">+919810262354</h6>
                                     </Link>
                                     <p className="mb-0">Media strategy encapsulates your intentions.</p>
                                 </div>

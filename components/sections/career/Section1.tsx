@@ -3,7 +3,48 @@ import Link from "next/link";
 export default function Section1() {
   return (
     <>
-      {/*it-solutions services section 1*/}
+      <div className="text-center pt-80">
+        <div className="tab-content" id="nav-tabContent">
+          <div
+            className="tab-pane fade show active"
+            id="nav-home"
+            role="tabpanel"
+            aria-labelledby="nav-home-tab"
+            tabIndex={0}
+          >
+            <div className="wow img-custom-anim-left">
+              <h2 className="text-anime-style-1">
+                Career Opportunities at Aadishri Softech
+              </h2>
+              <p>
+                Thank you for your interest in joining Aadishri Softech <br />
+                At present, we don’t have any active job openings.
+              </p>
+              <p>
+                But we’re always excited to connect with talented and passionate
+                individuals! 🚀
+                <br /> <br /> 👉 You can share your updated resume with us at
+                hr@info@aadishrisoftech.com.com, and we’ll reach out to you{" "}
+                <br /> when a suitable opportunity arises. <br /> <br />
+                Stay tuned for future updates on this page.
+              </p>
+              <h3>Why Join Us?</h3>
+
+              <p>
+                {" "}
+                A culture of innovation and collaboration 🤝 <br />
+                Opportunities for continuous learning and growth 📚 <br />
+                Work on impactful projects that make a difference 🌍 We look
+                forward to welcoming you in the future!
+              </p>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/*
+      
       <section className="it-solutions-services-section-1 pt-120">
         <div className="container">
           <div className="row">
@@ -115,7 +156,7 @@ export default function Section1() {
                       viewBox="0 0 64 64"
                       fill="none"
                     >
-                      {/*  Laptop Base -->*/}
+                      {/*  Laptop Base -->*
                       <rect
                         x="8"
                         y="16"
@@ -135,7 +176,7 @@ export default function Section1() {
                         fill="#e0f2fe"
                       />
 
-                      {/*  Laptop bottom -->*/}
+                      {/*  Laptop bottom -->
                       <rect
                         x="6"
                         y="44"
@@ -145,7 +186,7 @@ export default function Section1() {
                         fill="#2563eb"
                       />
 
-                      {/*  Gear icon -->*/}
+                      {/*  Gear icon -->
                       <circle
                         cx="48"
                         cy="20"
@@ -1063,7 +1104,7 @@ export default function Section1() {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
     </>
   );
 }

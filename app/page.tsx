@@ -13,11 +13,11 @@ export default function Home() {
             <Layout>
                 <Section1 />
                 <Section2 />
-                <Section3 />
-                <Section4 bg="" />
+               {/*  <Section3 />  */} 
+                {/* <Section4 bg="" /> */}
                 <Section5 />
                 <Section6 />
-                <Section7 bg_section="bg-light-2" bg_card="bg-white" classList="" />
+                 {/* <Section7 bg_section="bg-light-2" bg_card="bg-white" classList="" />  */}
                 <Section8 />
             </Layout>
         </>

@@ -55,10 +55,10 @@ export default function Section8() {
                                 <span className="text-primary fs-7 fw-medium position-relative z-1 btn-text border-top border-primary px-2 py-2">call to action</span>
                                 <h2 className="text-dark my-3 position-relative z-1 text-anime-style-1">
                                     Ready to grow your <br />
-                                    business? Start with <span className="text-primary">Astrax</span> &amp; become <br />
+                                    business? Start with <span className="text-primary">Aadishri</span> &amp; become <br />
                                     faster every second.
                                 </h2>
-                                <Link href="/contact" data-aos="zoom-in" className="btn btn-outline-dark mt-5">
+                                <Link href="/get-a-quote" data-aos="zoom-in" className="btn btn-outline-dark mt-5">
                                     get in touch
                                 </Link>
                             </div>
