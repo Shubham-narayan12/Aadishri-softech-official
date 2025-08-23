@@ -23,8 +23,8 @@ export default function Section1() {
               <p>
                 But we’re always excited to connect with talented and passionate
                 individuals! 🚀
-                <br /> <br /> 👉 You can share your updated resume with us at
-                hr@info@aadishrisoftech.com.com, and we’ll reach out to you{" "}
+                <br /> <br /> 👉 You can share your updated resume with us  
+                 at <b>info@aadishrisoftech.com</b>, and we’ll reach out to you{" "}
                 <br /> when a suitable opportunity arises. <br /> <br />
                 Stay tuned for future updates on this page.
               </p>
