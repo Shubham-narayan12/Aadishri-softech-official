@@ -45,7 +45,7 @@ export default function Section2() {
   return (
     <>
       {/*it solutions home section 2*/}
-      <section className="it-solutions-home-section-2 position-relative overflow-hidden pt-120 pb-120">
+      <section className="it-solutions-home-section-2 position-relative overflow-hidden pt-60 pb-80">
         <div className="container position-relative z-1">
           <div className="text-center">
             <div className="position-relative bg-white icon-shape icon-160 rounded-circle border border-primary">
@@ -71,7 +71,7 @@ export default function Section2() {
           </div>
           <div className="row">
             <div className="col-lg-10 mx-auto">
-              <div className="text-center pt-80">
+              <div className="text-center pt-60">
                 <nav>
                   <div
                     className="nav nav-tabs justify-content-center border-bottom-0 mb-5"
@@ -218,11 +218,9 @@ export default function Section2() {
             </div>
           </div>
           <div className="@@classList">
-            <div className="row pt-120 pb-8 border-bottom position-relative">
+            <div className="row pt-40 pb-6 border-bottom position-relative">
               <Swiper {...swiperOptions} className="swiper slider-5 pt-120">
                 <div className="d-flex flex-lg-nowrap flex-wrap justify-content-center justify-content-lg-between gap-5">
-                  
-
                   <SwiperSlide>
                     <Link
                       data-aos="fade-up"
@@ -291,7 +289,7 @@ export default function Section2() {
                       className="d-flex flex-column align-items-center text-center"
                     >
                       <img
-                        src="assets/imgs/skillsroot.png"
+                        src="assets/imgs/skillrootlogopng.png"
                         alt="Skillsroot"
                         width={150}
                         height={80}
